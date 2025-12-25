@@ -2,12 +2,12 @@
   <head>
     <style>
       body {
-        background: linear-gradient(135deg, #ff9a9e, #fad0c4, #fad0c4, #fbc2eb);
+        background: linear-gradient(to right, #a8e6cf, #dcedc1);
         text-align: center;
-        font-family: 'Comic Sans MS', cursive;
+        font-family: 'Georgia', serif;
       }
       h2 {
-        color: #4a148c;
+        color: #2e7d32;
       }
     </style>
   </head>
